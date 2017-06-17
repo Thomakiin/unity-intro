@@ -13,6 +13,9 @@
 
    	Try putting this in your scene, dropping an object onto the puppet field,
    	and seeing what happens with different settings for velocity and kept_speed.
+   
+   FrictionThing is a "Class". That basically means that "it holds a group of information".
+   It becomes a convenient container to hold and access our variables.
  */
 
 using UnityEngine;
